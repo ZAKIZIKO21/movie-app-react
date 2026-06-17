@@ -7,7 +7,7 @@
 ![Search Batman](src/screenshots/search-batman.png)
 
 # 🎥 Détails d'un film
-![Movie Details](src/screenshots/movie-details.png)
+![Movie Details](src/screenshots/movie-detail.png)
 
 # ⭐ Favoris
 ![Favorites](src/screenshots/favorites-page.png)
